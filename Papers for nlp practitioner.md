@@ -1,4 +1,28 @@
-Papers for nlp practitioner 📖
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Gilroy&weight=700&size=35&pause=1000&color=F7F7F7&width=600&height=60&lines=Papers+for+NLP+practitioner📖)](https://git.io/typing-svg)
+</div> 
+ 
+
+Any feedback is welcome.
+
+<div align="center"> 
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/mukesh-manral/"><img src="https://img.shields.io/badge/LinkedIn-411AFF?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>  
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.youtube.com/@manralai"><img src="https://img.shields.io/badge/Youtube-411AFF?style=for-the-badge&logo=Youtube&logoColor=white" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://medium.com/@manralai/lists"><img src="https://img.shields.io/badge/Medium-411AFF?style=for-the-badge&logo=Medium&logoColor=white" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp; 
+<a href="https://www.instagram.com/manralai/"><img src="https://img.shields.io/badge/Instagram-411AFF?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp; 
+<a href="https://www.kaggle.com/mukeshmanral"><img src="https://img.shields.io/badge/Kaggle-411AFF?style=for-the-badge&logo=Kaggle&logoColor=white" /></a>
+<!-- <a href="https://discord.user"><img alt="discord_logo" src="https://img.shields.io/badge/Discord-411AFF?style=for-the-badge&logo=discord&logoColor=white"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp; 
+#<a href="https://twitter.com/WebXDAO"> <img src="https://img.shields.io/badge/X_(Twitter)-411AFF?style=for-the-badge&logo=x&logoColor=white" />
+</a> -->
+</div>
+
+<hr style="border:40px solid gray"> </hr>
+
 
 ### `1. Foundational Papers (Year:1990s-2000s):`
 
